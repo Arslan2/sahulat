@@ -26,4 +26,19 @@ Myapp::Application.configure do
   # This option may cause significant delays in view rendering with a large
   # number of complex assets.
   config.assets.debug = true
+  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+
+      # Configure mailer
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.asset_host = 'localhost:3000'
+
+  ActionMailer::Base.smtp_settings = {
+    user_name: 'app141189485@heroku.com',
+    password: 'wwpb9jmu1677',
+    domain: 'localhost:3000',
+    address: 'smtp.sendgrid.net',
+    port: 587,
+    authentication: :plain,
+    enable_starttls_auto: true
+  }
 end

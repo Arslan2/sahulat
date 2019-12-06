@@ -10,7 +10,7 @@ gem 'font-awesome-rails', '4.3.0.0'
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 gem 'pg', '~> 0.15'
-
+gem 'devise'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
@@ -39,6 +39,9 @@ group :development do
   gem 'rb-readline'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
+
+gem 'apipie-rails'
+gem 'exception_notification'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
