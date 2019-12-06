@@ -29,13 +29,6 @@
                 </div>
             </li>
 
-            <li class="<%= is_active_controller('forms') %>">
-                <a href="#"><i class="fa fa-user-md white"></i> <span class="nav-label white">Visitors</span><span class="fa arrow"></span></a>
-                <ul class="nav nav-second-level collapse <%= is_active_controller('forms') %>">
-                    <li class="<%= is_active_action('basic_forms') %>"><%= link_to "List", appointments_path, class: 'white' %></li>
-                </ul>
-            </li>
-
             <% if can? :manage, User %>
                 <li class="<%= is_active_controller('forms') %>">
                     <a href="#"><i class="fa fa-users white"></i> <span class="nav-label white">Clients</span><span class="fa arrow"></span></a>
@@ -53,15 +46,7 @@
                     <li class="<%= is_active_action('basic_forms') %> white"><%= link_to "List", questions_path, class: 'white' %></li>
                     <% if can? :create, Question %>
                         <li class="<%= is_active_action('basic_forms') %> white"><%= link_to 'New Question', new_question_path, class: 'white' %></li>
-                        <li class="<%= is_active_action('basic_forms') %> white"><%= link_to 'Template Question', questions_template_path, class: 'white' %></li>
                     <% end %>
-                </ul>
-            </li>
-
-            <li class="<%= is_active_controller('forms') %>">
-                <a href="#"><i class="fa fa-file" style="color: white"></i> <span class="nav-label" style="color: white">Reporting</span><span class="fa arrow"></span></a>
-                <ul class="nav nav-second-level collapse <%= is_active_controller('forms') %>">
-                    <li class="<%= is_active_action('basic_forms') %> white"><%= link_to 'Statistic', statistic_path, class: 'white' %></li>
                 </ul>
             </li>
         </ul>

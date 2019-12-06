@@ -1,20 +1,24 @@
 Myapp::Application.routes.draw do
-
   # You can have the root of your site routed with "root"
   #root to: 'questions#list'
   apipie
-  root to: 'dashboards#dashboard_1'
+  #root to: 'dashboards#dashboard_1'
+  root to: 'users#index'
 
   devise_for :users, controllers: { confirmations: 'confirmations' }
   namespace :api, defaults: {format: 'json'} do
-    #scope module: :v1, constraints: ApiConstraints.new(version: 1, default: true) do
+    scope module: :v1, constraints: ApiConstraints.new(version: 1, default: true) do
       devise_for :users, only: [:sessions, :registrations ], controllers: {sessions: 'api/v1/devise/sessions', registrations: 'api/v1/devise/registrations'}
       resources :users do
         post :reset_password, on: :collection
       end
-    #end
+      resources :questions do
+      end
+    end
   end
 
+  resources :questions
+  
   # All routes
   get "dashboards/dashboard_1"
   get "dashboards/dashboard_2"
@@ -139,8 +143,13 @@ Myapp::Application.routes.draw do
   get "questions/new"
   post "questions/create"
 
-  get "users/list"
-  get "users/new"
-  post "users/create"
+  # get "users/list"
+  # get "users/new"
+  # post "users/create"
+
+  resources :users
+  post "users/create_user"
+  post "users_search", to: "users#index"
+  get "users_search", to: "users#index"
   #resources :questions
 end

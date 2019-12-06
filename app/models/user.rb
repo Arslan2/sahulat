@@ -2,11 +2,13 @@ class User < ActiveRecord::Base
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, :registerable,
-         :recoverable, :rememberable, :validatable
-  devise :database_authenticatable, :registerable, :recoverable, :timeoutable, stretches: 12
+         :recoverable, :rememberable, :validatable, :confirmable
 
-  scope :doctors, -> { where(role: 'doctor') }
-  validates :email, presence: true, uniqueness: true
+  has_many :user_identities, dependent: :destroy
+  has_many :questions, dependent: :destroy
+
+  scope :staff, -> { where(role: 'staff') }
+  # validates :email, presence: true, uniqueness: true
   #validates_format_of :contact_person_number, :phone, :fax, with: /\(?[0-9]{3}\)? ?[0-9]{3}-[0-9]{4}/, message: "- must be in xxx-xxx-xxxx format."
 
   def full_name

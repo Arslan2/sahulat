@@ -40,9 +40,10 @@ group :development do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
 
-gem 'apipie-rails'
 gem 'exception_notification'
-
+gem 'apipie-rails'
+gem 'active_model_serializers'
+gem 'cancan'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
