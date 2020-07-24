@@ -12,7 +12,8 @@ class Api::V1::Devise::RegistrationsController < Devise::RegistrationsController
 
   def_param_group :sign_up_params_group do
     param :user, Hash, required: true do
-      param :email, String, required: true
+      param :phone, String, required: true
+      param :email, String, required: false
       param :device_id, String, required: true
       param :first_name, String, required: true
       param :last_name, String, required: true
@@ -33,7 +34,7 @@ class Api::V1::Devise::RegistrationsController < Devise::RegistrationsController
         sign_in(:user, resource)
       end
 
-      return render json: {success: true, user_id: resource.id, message: "Your account is created successfully but still needs to be verified"}, status: :created
+      return render json: {success: true, user: resource, message: "Your account is created successfully"}, status: :created
     else
       render json: {success: false, errors: resource.errors}, status: :unprocessable_entity
     end
@@ -42,7 +43,7 @@ class Api::V1::Devise::RegistrationsController < Devise::RegistrationsController
   private
 
   def sign_up_params
-    allow = [:email, :first_name, :last_name, :password]
+    allow = [:email, :first_name, :last_name, :password, :phone]
 
     params.require(:user).permit(allow)
   end

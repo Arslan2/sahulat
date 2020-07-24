@@ -16,7 +16,8 @@ class Api::V1::Devise::SessionsController < Devise::SessionsController
 
   def_param_group :signin_params do
     param :user, Hash, required: true do
-      param :email, String, required: true
+      param :email, String, required: false
+      param :phone, String, required: true
       param :password, String, required: true
       param :device_id, String, required: true
     end
@@ -47,7 +48,7 @@ class Api::V1::Devise::SessionsController < Devise::SessionsController
   formats ['json']
   description "User's current scope from a single device is signout"
   def destroy
-    Devise.sign_out_all_scopes ? sign_out : sign_out(@current_user.email)
+    Devise.sign_out_all_scopes ? sign_out : sign_out(@current_user.phone)
     @user_identity.destroy
     render json: {success: true}, status: :ok
   end
@@ -55,7 +56,7 @@ class Api::V1::Devise::SessionsController < Devise::SessionsController
   private
 
   def login_params
-    params.require(:user).permit(:email)
+    params.require(:user).permit(:phone)
   end
 
   def invalid_login_attempt error=nil
