@@ -14,6 +14,8 @@ Myapp::Application.routes.draw do
       end
       resources :questions do
       end
+      resources :bookings do
+      end
     end
   end
 
