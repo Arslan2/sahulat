@@ -5,6 +5,7 @@ class User < ActiveRecord::Base
 
   has_many :user_identities, dependent: :destroy
   has_many :questions, dependent: :destroy
+  has_many :clusters, dependent: :destroy
 
   scope :staff, -> { where(role: 'staff') }
   validates :phone, presence: true, uniqueness: true

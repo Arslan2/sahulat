@@ -16,6 +16,14 @@ Myapp::Application.routes.draw do
       end
       resources :bookings do
       end
+      resources :tehsils do
+      end
+      resources :ucs do
+      end
+      resources :clusters do
+      end
+      resources :masters do
+      end
     end
   end
 
