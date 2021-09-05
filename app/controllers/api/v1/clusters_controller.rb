@@ -1,7 +1,7 @@
 class Api::V1::ClustersController < ApiController
   include Concerns::UserAuthentication
 
-  def index
+  def create
   	json = {}
   	data = cluster_params.to_json || {}
   	Cluster.create!(user_id: current_user.id, data: data)
