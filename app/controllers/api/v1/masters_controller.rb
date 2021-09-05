@@ -23,6 +23,60 @@ class Api::V1::MastersController < ApiController
 	      "percent": "11%",
 	      "date": "24-03-2021",
 	      "already_visit": "false"
+	    },
+	   	{
+	      "label": "Model Town",
+	      "percent": "20%",
+	      "date": "24-03-2021",
+	      "already_visit": "true"
+	    },
+	    {
+	      "label": "Luban Wala",
+	      "percent": "20%",
+	      "date": "30-08-2021",
+	      "already_visit": "false"
+	    },
+	    {
+	      "label": "Mandili",
+	      "percent": "11%",
+	      "date": "24-03-2021",
+	      "already_visit": "false"
+	    },
+	   	{
+	      "label": "Model Town",
+	      "percent": "20%",
+	      "date": "24-03-2021",
+	      "already_visit": "true"
+	    },
+	    {
+	      "label": "Luban Wala",
+	      "percent": "20%",
+	      "date": "30-08-2021",
+	      "already_visit": "false"
+	    },
+	    {
+	      "label": "Mandili",
+	      "percent": "11%",
+	      "date": "24-03-2021",
+	      "already_visit": "false"
+	    },
+	   	{
+	      "label": "Model Town",
+	      "percent": "20%",
+	      "date": "24-03-2021",
+	      "already_visit": "true"
+	    },
+	    {
+	      "label": "Luban Wala",
+	      "percent": "20%",
+	      "date": "30-08-2021",
+	      "already_visit": "false"
+	    },
+	    {
+	      "label": "Mandili",
+	      "percent": "11%",
+	      "date": "24-03-2021",
+	      "already_visit": "false"
 	    }
 	  ]
 	}
