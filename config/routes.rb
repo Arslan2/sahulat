@@ -21,6 +21,7 @@ Myapp::Application.routes.draw do
       resources :ucs do
       end
       resources :clusters do
+        post :index
       end
       resources :masters do
       end
