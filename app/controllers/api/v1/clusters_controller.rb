@@ -10,6 +10,6 @@ class Api::V1::ClustersController < ApiController
 
   private
   def cluster_params
-    params.require(:data)
+    params.require(:cluster).permit!
   end
 end
