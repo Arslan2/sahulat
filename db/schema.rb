@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20210905183245) do
+ActiveRecord::Schema.define(version: 20210905211130) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -44,6 +44,28 @@ ActiveRecord::Schema.define(version: 20210905183245) do
     t.datetime "created_at",                    null: false
     t.datetime "updated_at",                    null: false
   end
+
+  create_table "tehsils", force: :cascade do |t|
+    t.string   "name"
+    t.integer  "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "tehsils", ["user_id"], name: "index_tehsils_on_user_id", using: :btree
+
+  create_table "ucs", force: :cascade do |t|
+    t.string   "name",            default: ""
+    t.string   "session_type",    default: "Fixed Station"
+    t.date     "last_visit_date"
+    t.string   "last_visit_by",   default: ""
+    t.boolean  "already_visit",   default: false
+    t.integer  "tehsil_id"
+    t.datetime "created_at",                                null: false
+    t.datetime "updated_at",                                null: false
+  end
+
+  add_index "ucs", ["tehsil_id"], name: "index_ucs_on_tehsil_id", using: :btree
 
   create_table "user_identities", force: :cascade do |t|
     t.string   "device_id"
@@ -78,6 +100,7 @@ ActiveRecord::Schema.define(version: 20210905183245) do
     t.datetime "created_at",                             null: false
     t.datetime "updated_at",                             null: false
     t.string   "phone"
+    t.string   "role",                   default: "ASV"
   end
 
   add_index "users", ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true, using: :btree

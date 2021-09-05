@@ -1,53 +1,26 @@
 class Api::V1::UcsController < ApiController
   include Concerns::UserAuthentication
+  before_action :set_tehsil, only: [:index]
 
   def index
   	json = {}
+  	uc_names = []
 
-  	if current_user.phone == "asv.pattoki"
-	    json = {
-		  "uc_names": [
-		    {
-		      "id": "1",
-		      "name": "UC1",
-		      "session_type": "Fixed Station",
-		      "last_visit_date": "",
-		      "last_visit_by": " ",
-		      "already_visit": ""
-		    },
-		    {
-		      "id": "2",
-		      "name": "UC2",
-		      "session_type": "Outreach",
-		      "last_visit_date": "",
-		      "last_visit_by": "",
-		      "already_visit": "false"
-		    }
-		  ]
-		}
-	elsif current_user.phone == "asv.kasur"    
-		json = {
-		  "uc_names": [
-		    {
-		      "id": "1",
-		      "name": "UC1",
-		      "session_type": "Fixed Station",
-		      "last_visit_date": "",
-		      "last_visit_by": "",
-		      "already_visit": "false"
-		    },
-		    {
-		      "id": "2",
-		      "name": "UC2",
-		      "session_type": "Outreach",
-		      "last_visit_date": "",
-		      "last_visit_by": "",
-		      "already_visit": "false"
-		    }
-		  ]
-		}
-	end
+  	@tehsil.ucs.all.each do |uc|
+  		uc_names.push({id: uc.id, name: uc.name, session_type: uc.session_type, last_visit_date: uc.last_visit_date || "", last_visit_by: uc.last_visit_by, already_visit: uc.already_visit})
+  	end
+
+	json = {
+		"uc_names": uc_names
+	}
 
     success(json)
   end
+
+  private
+
+  def set_tehsil
+  	@tehsil = Tehsil.find_by(id: params[:tehsil_id])
+  end
+
 end
