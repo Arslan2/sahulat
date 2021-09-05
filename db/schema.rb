@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20210905170634) do
+ActiveRecord::Schema.define(version: 20210905183245) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,10 +26,10 @@ ActiveRecord::Schema.define(version: 20210905170634) do
   end
 
   create_table "clusters", force: :cascade do |t|
-    t.json     "data"
+    t.jsonb    "data",       default: {}, null: false
     t.integer  "user_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",              null: false
+    t.datetime "updated_at",              null: false
   end
 
   add_index "clusters", ["user_id"], name: "index_clusters_on_user_id", using: :btree

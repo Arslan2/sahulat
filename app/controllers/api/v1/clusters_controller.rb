@@ -3,7 +3,7 @@ class Api::V1::ClustersController < ApiController
 
   def index
   	json = {}
-  	data = cluster_params || {}
+  	data = cluster_params.to_json || {}
   	Cluster.create!(user_id: current_user.id, data: data)
     success(json)
   end
