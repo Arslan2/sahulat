@@ -3,6 +3,7 @@ class UserSerializer < ActiveModel::Serializer
 
   def tehsil_id
   	id = self.object.tehsils.last.try(:id)
+
   	if self.object.phone == 'ddho.krk'
   		id = Tehsil.where(name: "KRK").last.try(:id)
   	end
