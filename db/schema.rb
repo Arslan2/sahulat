@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20210905211130) do
+ActiveRecord::Schema.define(version: 20210905222454) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -34,6 +34,18 @@ ActiveRecord::Schema.define(version: 20210905211130) do
 
   add_index "clusters", ["user_id"], name: "index_clusters_on_user_id", using: :btree
 
+  create_table "master_plans", force: :cascade do |t|
+    t.string   "name",          default: ""
+    t.integer  "percent",       default: 0
+    t.date     "plan_date"
+    t.boolean  "already_visit", default: false
+    t.integer  "uc_id"
+    t.datetime "created_at",                    null: false
+    t.datetime "updated_at",                    null: false
+  end
+
+  add_index "master_plans", ["uc_id"], name: "index_master_plans_on_uc_id", using: :btree
+
   create_table "questions", force: :cascade do |t|
     t.string   "title"
     t.string   "placeholder"
@@ -55,14 +67,16 @@ ActiveRecord::Schema.define(version: 20210905211130) do
   add_index "tehsils", ["user_id"], name: "index_tehsils_on_user_id", using: :btree
 
   create_table "ucs", force: :cascade do |t|
-    t.string   "name",            default: ""
-    t.string   "session_type",    default: "Fixed Station"
+    t.string   "name",                 default: ""
+    t.string   "session_type",         default: "Fixed Station"
     t.date     "last_visit_date"
-    t.string   "last_visit_by",   default: ""
-    t.boolean  "already_visit",   default: false
+    t.string   "last_visit_by",        default: ""
+    t.boolean  "already_visit",        default: false
     t.integer  "tehsil_id"
-    t.datetime "created_at",                                null: false
-    t.datetime "updated_at",                                null: false
+    t.datetime "created_at",                                     null: false
+    t.datetime "updated_at",                                     null: false
+    t.string   "vaccinator_name",      default: ""
+    t.string   "health_facility_name", default: ""
   end
 
   add_index "ucs", ["tehsil_id"], name: "index_ucs_on_tehsil_id", using: :btree

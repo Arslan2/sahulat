@@ -1,0 +1,947 @@
+name,plan_date,uc_id
+Muhalim Khord,1,1
+Muhalim Khord,2,1
+Hakim Jhagian,3,1
+Khapar Par Hathar,6,1
+Khapar Par Hathar,7,1
+Khapar Par Hathar,8,1
+Kalcha Maduna,9,1
+Kalcha Maduna,10,1
+Bazeed Pur,13,1
+Bazeed Pur,14,1
+Alan Kay+Jummay Wala,15,1
+Jangllat,16,1
+Sanda Nizam,17,1
+Singh Sahab/Khagian wala,20,1
+Singh Sahab/Khagian wala,21,1
+Fatuhi Wala,22,1
+Fatuhi Wala,23,1
+Walay Wala/Kot Abdullah,24,1
+Bhata Rasool Nagar,27,1
+Rasool Nagar,28,1
+Rasool Nagar,29,1
+Rasool Nagar,30,1
+Bahadar Pura,1,2
+Bahadar Pura,2,2
+Bahadar Pura,3,2
+Tolo Wala Stop,6,2
+Nizam Pura,7,2
+Nizam Pura,8,2
+Nizam Pura,9,2
+Bigri,10,2
+Bigri,13,2
+Bigri,14,2
+Basti Faiz Shah+Bhatajat,15,2
+Bairoon Basti Sabri,16,2
+Bairoon Basti Sabri,17,2
+Band Rokad,20,2
+Sheikh Bhagu,21,2
+Sheikh Bhagu,22,2
+Muhammad Nagar,23,2
+Muhammad Nagar,24,2
+Rasool Pura,27,2
+Rasool Pura,28,2
+Rasool Pura,29,2
+Rasool Pura+ Bhatajat,30,2
+Sidhana,1,3
+Ghatian Wali,2,3
+Anian Wali+ Dhari,3,3
+Chak Deda,6,3
+Kharpa Chak,7,3
+Jonikay,8,3
+Jonikay,9,3
+Jonikay,10,3
+Katian Wali,13,3
+Katian Wali,14,3
+Zaildar Wali,15,3
+Jhagain Mewati,16,3
+Imam Din Wali,17,3
+Momin Pura,20,3
+Itefaq Pura,21,3
+Adham Singh,22,3
+Paki Haweli,23,3
+Paki Haweli,24,3
+Kamharan Wali,27,3
+Malkan Wali,28,3
+Menay Wali,29,3
+Topian Wali,30,3
+Nol Hatar,1,4
+Nai Basti Baghanpura,2,4
+Purani Basti Baghanpura,3,4
+Nawan Qila,6,4
+Qila Gunja,7,4
+Mehmood Pura,8,4
+Mehmood Pura,9,4
+Kot Arain,10,4
+Khangran Wala,13,4
+Humay Wala,14,4
+Rehman Sati+Sadiq Sati,15,4
+Qabar Kot,16,4
+Qabar Kot,17,4
+Kot Chaudary Wala,20,4
+Kena Colony,21,4
+Basti Eid Gah,22,4
+Dera Sabir Shah,23,4
+Alifwala,24,4
+Kaleeran wala,27,4
+Bijlighar Marlay,28,4
+Cha Mali Wala,29,4
+Hari Kanwal+Jura Basti,30,4
+Sanda Kalan,1,5
+Sanda Kalan,2,5
+Sanda Kalan,3,5
+Sanda Chastiana,6,5
+Sanda Chastiana,7,5
+Sanda Chastiana,8,5
+Sanda Cha Jaat,9,5
+Sanda Cha Jaat,10,5
+Sanda Phatak Cha Jaat,13,5
+Bheidian Khanpur,14,5
+Bheidian Khanpur Cha Jaat,15,5
+Bheidian Basti Cha Jaat,16,5
+Cha Jaat,17,5
+Bheidian Kalan,20,5
+Bheidian Kalan,21,5
+Bheidian Kalan,22,5
+Bheidian Nombha,23,5
+Bheidian Kalan Cha Jaat,24,5
+Bheidian Kalan Cha Jaat,27,5
+Barj Kalan,28,5
+Mian Wala,29,5
+Mian Wala,30,5
+Chathian wala,1,6
+Chathian wala,2,6
+Chathian wala,3,6
+Badr Pur,6,6
+Badr Pur Haweli,7,6
+Badr Pur Haweli,8,6
+Badr Pur,9,6
+Rae Kalan,10,6
+Rae Kalan,13,6
+Rae Kalan,14,6
+Rae Khurd,15,6
+Rae Khurd,16,6
+Haweli Rae Khurd,17,6
+Bedian,20,6
+Bedian,21,6
+Bedian,22,6
+Bedian,23,6
+Teh Jharulian,24,6
+Chathian wala Haweli,27,6
+Chathian wala,28,6
+Chathian wala,29,6
+Chathian wala,30,6
+Noor Mehal Cenima,1,7
+Qadirabad,2,7
+Qadirabad,3,7
+Qadirabad,6,7
+Qadirabad,7,7
+Qadirabad,8,7
+Qadirabad,9,7
+Qadirabad,10,7
+Noor Shah Wali,13,7
+Noor Shah Wali,14,7
+Sadiqabad,15,7
+Sadiqabad,16,7
+Fazal Khan Colony,17,7
+Zulfiqar Town,20,7
+Basti Khadimabad,21,7
+Kot Fatehbaz Khan,22,7
+Muslim Town,23,7
+Muslim Town,24,7
+Basti Kher Din,27,7
+Qadiwand Road+Haji Park,28,7
+Sindhi Basti,29,7
+Sadar Diwan,30,7
+Haji Shah Sharif,1,8
+Haji Shah Sharif,2,8
+Kot Fateh Deen,3,8
+Kot Fateh Deen,6,8
+Kot Azam Khan,7,8
+Kot Azam Khan,8,8
+Beroon Kot Azam Khan,9,8
+Jinah Colony,10,8
+Dhoor Kot,13,8
+Dhoor Kot,14,8
+Dhoor Kot,15,8
+Dangi Pura,16,8
+Dangi Pura,17,8
+Dangi Pura,20,8
+Chap Shah,21,8
+Chap Shah,22,8
+Sardar Colony,23,8
+Sardar Colony,24,8
+Momin Pura,27,8
+Momin Pura,28,8
+Shami Shaheed,29,8
+Kot Badha,30,8
+Taqia Malanga,1,9
+Kot Sher Baz Khan,2,9
+Muneer Shahid Colony,3,9
+Road Kot,6,9
+Road Kot,7,9
+Road Kot,8,9
+Kot Mer Baz Khan,9,9
+Kot Mer Baz Khan,10,9
+Kot Mer Baz Khan,13,9
+Kot Mer Baz Khan,14,9
+Ali Park,15,9
+Ali Park,16,9
+Ali Park,17,9
+Ali Park,20,9
+Saidabad Colony,21,9
+Balhay Shah Colony,22,9
+Muhala Muhammad Nagar,23,9
+Muhala Balochan Wala,24,9
+Bilal Colony,27,9
+Babar Town,28,9
+Taba Rang Pur,29,9
+Kambuh Colony+ Guldberg Colony,30,9
+Tibi Kamwan Wali,1,10
+Tibi Kamwan Wali,2,10
+Tibi Kamwan Wali,3,10
+Ahmad Khan Darwesh,6,10
+Old Railway Line,7,10
+Old Railway Line,8,10
+Haji Gagga,9,10
+Haji Gagga,10,10
+Haji Gagga,13,10
+Basti Burat Shah,14,10
+Basti Burat Shah,15,10
+Shakur Colony,16,10
+Kamal Chashti Mor+ Jail Colony,17,10
+Salim Town Defence Colony,20,10
+Kot Ghulam Muhammad Khan,21,10
+Roshanabad Colony,22,10
+Shahbaz Road,23,10
+Shahbaz Road,24,10
+Kachi Abadi,27,10
+Kachi Abadi+Saithi Colony,28,10
+Ali Ahmad Shah Colony,29,10
+Abdul Khaliq+Officer Colony,30,10
+Kot Ghulam Muhammad,1,11
+Kot Ghulam Muhammad,2,11
+Kot Ghulam Muhammad,3,11
+Androon Kot Piran,6,11
+Beroon Kot Piran,7,11
+Ret Chalah,8,11
+Ret Chalah,9,11
+Paka Qila,10,11
+Roshanabad,13,11
+Katal Ghari,14,11
+Beroon Kot Piran,15,11
+Kot Maulvi Abdul Qadir,16,11
+Kot Maulvi Abdul Qadir,17,11
+Niaz Nagar,20,11
+Mangal Mandi,21,11
+Deen Garh,22,11
+Bagar Kot Androon,23,11
+Bagar Kot Androon,24,11
+Bagar Kot Beroon,27,11
+Kot Halim Khan Androon,28,11
+Kot Halim Khan Beroon,29,11
+Basti Shadra+Mochi Pura,30,11
+Kot Ali Garh Beroon,1,12
+Kot Ali Garh Beroon,2,12
+Kot Ali Garh Beroon,3,12
+Kot Ali Garh Androon,6,12
+Kot Ali Garh Androon,7,12
+Latif Pura,8,12
+Latif Pura,9,12
+Latif Pura,10,12
+Mehmood Pura,13,12
+Mehmood Pura,14,12
+Salamat Pura Androon,15,12
+Salamat Pura Androon,16,12
+Salamat Pura Androon,17,12
+Salamat Pura Beroon,20,12
+Salamat Pura Beroon,21,12
+Salamat Pura Beroon,22,12
+Sheray Wala Khokha,23,12
+Basti Wanikan Beroon,24,12
+Basti Wanikan Beroon,27,12
+Basti Wanikan Beroon,28,12
+Basti Wanikan Beroon,29,12
+Nizam Pur,30,12
+Mai Jawai,1,13
+Kamil Shah,2,13
+Beroon Kot Murad Khan,3,13
+Beroon Kot Murad Khan,6,13
+Androon Kot Murad Khan,7,13
+Androon Kot Murad Khan,8,13
+Androon Kot Murad Khan,9,13
+Androon Kot Murad Khan,10,13
+Muft Pura,13,13
+Railway Colony,14,13
+Mol Chand,15,13
+Jamat Pur,16,13
+Jamat Pur,17,13
+Jamat Pur,20,13
+Jamat Pur,21,13
+Muhammad Nagar,22,13
+Muhammad Nagar,23,13
+Muhammad Nagar,24,13
+Muhammad Nagar,27,13
+Zulkarnain Colony,28,13
+Chali Pyaray Lal,29,13
+Aisi Nagar,30,13
+Bhasar Pura,1,14
+Bhasar Pura,2,14
+Rukan Pura,3,14
+Rukan Pura,6,14
+Rukan Pura,7,14
+Tabeh Kaduan Wala,8,14
+Tabeh Kaduan Wala,9,14
+Basti Sabri,10,14
+Basti Sabri,13,14
+Basti Sabri,14,14
+Muhala Pir Bukhari,15,14
+Muhala Pir Bukhari,16,14
+muhala Pir Bulandi,17,14
+muhala Pir Bulandi,20,14
+muhala Pir Bulandi,21,14
+Bhasar Pura,22,14
+Bhasar Pura,23,14
+Bhasar Pura,24,14
+Bhasar Pura,27,14
+Bhasar Pura,28,14
+Bhasar Pura,29,14
+Bhasar Pura,30,14
+Sabri Basti,1,15
+Sabri Basti,2,15
+Sabri Basti,3,15
+Cha Bulanday Wala,6,15
+Cha Bulanday Wala,7,15
+Cha Bulanday Wala,8,15
+Cha Bulanday Wala,9,15
+Rukan Pura,10,15
+Muft Pura,13,15
+Basti Charagh Shah,14,15
+Basti Charagh Shah,15,15
+Basti Charagh Shah,16,15
+Basti Charagh Shah,17,15
+Bhatta Sohan,20,15
+Bhatta Sohan,21,15
+Bhatta Sohan,22,15
+Karmanabad,23,15
+Karmanabad,24,15
+Karmanabad,27,15
+Chaki Piyaray Lal,28,15
+Chaki Piyaray Lal,29,15
+Aisi Nagar,30,15
+Muri Gate,1,16
+Muri Gate,2,16
+Muri Gate,3,16
+Kot Badrudeen,6,16
+Kot Badrudeen,7,16
+Kot Badrudeen,8,16
+Gate Patwan wala,9,16
+Gate Patwan wala,10,16
+Tiba Sheikh Ameen,13,16
+Tiba Sheikh Ameen,14,16
+Ghosiah colony,15,16
+Ghosiah colony,16,16
+Ghosiah colony,17,16
+Balay Shah Colony,20,16
+Balay Shah Colony,21,16
+Kot Usman Khan,22,16
+Kot Usman Khan,23,16
+Kot Usman Khan,24,16
+Kot Usman Khan,27,16
+Karishna Nagar,28,16
+Rara Gugran,29,16
+Muhala Aisaian,30,16
+Dhampat Road,1,17
+Dusehra Ground,2,17
+Mandir Hari Har ,3,17
+Kot Rukandeen,6,17
+Chapar Kanda,7,17
+Nafees Colony,8,17
+Nafees Colony,9,17
+Nafees Colony,10,17
+Basti Lal Shah,13,17
+Basti Lal Shah,14,17
+Basti Lal Shah,15,17
+Basti Lal Shah,16,17
+Azhar Colony,17,17
+Santook Sar,20,17
+Shah Inayat Colony,21,17
+Shah Inayat Colony,22,17
+Pakiza Colony,23,17
+Khadimabad,24,17
+Yousuf Shah Town,27,17
+Mushtaq Colony,28,17
+Mushtaq Colony,29,17
+Basti Islamabad,30,17
+Daftooh Village,1,18
+Beroon Mustafabad,2,18
+Beroon Mustafabad,3,18
+Daftooh ,6,18
+Daftooh ,7,18
+Daftooh ,8,18
+Daftooh ,9,18
+Daftooh ,10,18
+Daftooh ,13,18
+Daftooh ,14,18
+Daftooh ,15,18
+Satuki,16,18
+Satuki,17,18
+Satuki,20,18
+Satuki,21,18
+Satuki,22,18
+Satuki,23,18
+Beroon Mustafabad,24,18
+Beroon Mustafabad,27,18
+Beroon Mustafabad,28,18
+Beroon Mustafabad,29,18
+Beroon Mustafabad,30,18
+Kacha Paka Qilan,1,19
+Kacha Paka Qilan,2,19
+Adda Kacha Paka,3,19
+Adda Kacha Paka,6,19
+Nandan Pura,7,19
+Kacha Paka Khurd,8,19
+Verm Hithar,9,19
+Verm Hithar,10,19
+Verm Hithar,13,19
+Verm Hithar,14,19
+Jagu Wala,15,19
+Jagu Wala,16,19
+Khirm Hithar,17,19
+Sherut,20,19
+Dholan Hithar,21,19
+Dholan Hithar,22,19
+Dholan Hithar,23,19
+Dholan Hithar,24,19
+Dholan Hithar,27,19
+Dholan Hithar,28,19
+Dholan Hithar Mandi,29,19
+Dholan Hithar Mandi,30,19
+Jora,1,20
+Jora,2,20
+Jora,3,20
+Jora,6,20
+Jora,7,20
+Nurpur Dogran,8,20
+Nurpur Dogran Beroon,9,20
+Fateh Pur,10,20
+Fateh Pur,13,20
+Dost Pura,14,20
+Dost Pura,15,20
+Dost Pura Beroon,16,20
+Saad Village,17,20
+Saad Village,20,20
+Saad Village,21,20
+Saad Village,22,20
+Kot Bhag Deen,23,20
+Kot Muhammad Hussain Wala,24,20
+Kot Haji Wala,27,20
+Kot Jalal-ud-Din,28,20
+Kot Kalsan Wala+Tilian Wala,29,20
+Bulandi,30,20
+Jagian Kalan,1,21
+Jagian Khord,2,21
+Jagian Muft Pura,3,21
+Jagian Mashmulajat,6,21
+Beto,7,21
+Beto,8,21
+Sudewal,9,21
+Sudewal Beroon,10,21
+Thathi Usman,13,21
+Thathi Usman,14,21
+thathi Baksh,15,21
+Kot Orha Wali,16,21
+Thathi Baksh Beroon,17,21
+Meman Kalan+ Khord,20,21
+Gaho Jamoon,21,21
+Chabar Kalan,22,21
+Chabar Khord,23,21
+Goharh,24,21
+Goharh Beroon,27,21
+Tara Garh,28,21
+Tara Garh Beroon,29,21
+Muft Pura,30,21
+Ramiana,1,22
+Ramiana,2,22
+Panjan Wali,3,22
+Tarkhana Wali,6,22
+Cha Road Singh+Sahari Otar,7,22
+Belaqa Singh+Sahar Hithar,8,22
+Belaqa Singh,9,22
+Ajaib Singh,10,22
+Teekhan Wali,13,22
+Pharian Wali,14,22
+Tabay Sialan,15,22
+Bhatta Jaat,16,22
+Tarkhana Wali Number 2,17,22
+Nand ka Takia,20,22
+Nand ka Takia,21,22
+Padhana Wali,22,22
+Subay Wali Dhari,23,22
+Bhala,24,22
+Dogar Kot,27,22
+Bhatta Jaat Sahari Road,28,22
+Sahri Hithar,29,22
+Sahari Otar,30,22
+Hussain Khan Wala,1,23
+Hussain Khan Wala,2,23
+Hussain Khan Wala,3,23
+Hussain Khan Wala,6,23
+Ratnay Wala Kalan,7,23
+Ratnay Wala Kalan,8,23
+Raji Wala Jatan,9,23
+Bhedan Usman Wala,10,23
+Bhedan Usman Wala,13,23
+Membay Kay,14,23
+Basti Chabeel Wali,15,23
+Noori Wala,16,23
+Noori Wala,17,23
+Alwala,20,23
+Alwala,21,23
+Bhagay Hatad,22,23
+Bhagay Hatad,23,23
+Chabar Chok,24,23
+Bin Bodlah Khord,27,23
+Bin Bodlah Khord,28,23
+Sheikh Amad,29,23
+Thathi Fareed+Rangay Wala,30,23
+Gadoki Village,1,24
+Gadoki Village,2,24
+Katluhi Kalan,3,24
+Jiwan Singh,6,24
+Amreek Singh,7,24
+Amreek Singh,8,24
+Sarhali Khord,9,24
+Sarhali Khord,10,24
+Basti Gharib,13,24
+Pathan Wala,14,24
+Wadara,15,24
+Wadara Village,16,24
+Bhatta Jaat Wadara,17,24
+Katluhi Khord,20,24
+Katluhi Khord,21,24
+Ramzanabad,22,24
+Greent Kot,23,24
+Greent Kot,24,24
+Sardar Dhan Singh+Basti Gangala,27,24
+Shammabad,28,24
+Shammabad,29,24
+Hafizabad+Rehmatabad,30,24
+Khai Hithar,1,25
+Khai Hithar,2,25
+Sanda Kalan,3,25
+Sanda Kalan,6,25
+Sanda Marlay,7,25
+Rajo Wal Kehna,8,25
+Rajo Wal Kehna,9,25
+Sikandar Pura,10,25
+Sikandar Pura Bhatta Jaat,13,25
+Khoday,14,25
+Kot Malan Singh,15,25
+Kot Moota Singh,16,25
+Kot Ganga Singh,17,25
+Sayed Pur,20,25
+Sayed Pur,21,25
+Sayed Pur,22,25
+Basti Balochan,23,25
+Kot Chairman Suleiman,24,25
+Baig Pur,27,25
+Kot Khair Deen,28,25
+Hardo Sahbani Wala,29,25
+Sangra,30,25
+Lakhankay Nai Abadi,1,26
+Lakhankay Nai Abadi,2,26
+Lakahnkay,3,26
+Lakahnkay,6,26
+Lakahnkay,7,26
+Lakahnkay,8,26
+Lakahnkay,9,26
+Lakahnkay,10,26
+Lakahnkay Thay,13,26
+Wadnah,14,26
+Wadnah,15,26
+Wadnah,16,26
+Bhalo,17,26
+Bhalo,20,26
+Bhalo Nai Abadi,21,26
+Khara,22,26
+Khara,23,26
+Khara,24,26
+Khara,27,26
+Khara,28,26
+Khara,29,26
+Khara,30,26
+Bulandi Autar,1,27
+Bulandi Autar,2,27
+Gagarh,3,27
+Gagarh,6,27
+Haweli Bagh Wali,7,27
+Kot Araian,8,27
+Haweli Munjar Wali,9,27
+Badha Singh,10,27
+Thay Sheikhum,13,27
+Thay Sheikhum,14,27
+Thay Sheikhum,15,27
+Thay Sheikhum,16,27
+Thay Sheikhum,17,27
+Today Pur,20,27
+Today Pur,21,27
+Lakhu Brar,22,27
+Lakhu Kalim+Marli Wala,23,27
+Nai Wala,24,27
+Haweli Jhunday Wali,27,27
+Dar Pur,28,27
+Kotli Ray Abu Bakar,29,27
+Kotli Ray Abu Bakar,30,27
+Hari Har,1,28
+Hari Har,2,28
+Hari Har Basti,3,28
+Hari Har,6,28
+Dolay Wala Village,7,28
+Dolay Wala Village,8,28
+Dolay Wala Bridge,9,28
+Bahamni Wala Khord,10,28
+Bahamni Wala Khord,13,28
+bahamni Wala Village,14,28
+bahamni Wala Village,15,28
+bahamni Wala Village,16,28
+Maan,17,28
+Maan,20,28
+Maan,21,28
+Maan Basti,22,28
+Bangla Kambuh,23,28
+Bangla Kambuh,24,28
+Basti Sindhi,27,28
+Kaisar Garh,28,28
+Kaisar Garh,29,28
+Chishti Town,30,28
+Chor Kot,1,29
+Chor Kot,2,29
+Chor Kot,3,29
+Kalay Otar,6,29
+Kalay Otar,7,29
+Shah Inayat,8,29
+Shah Inayat,9,29
+Dhalam Hithar,10,29
+Lonikay,13,29
+Dhala Kalan,14,29
+Dhala Kalan,15,29
+Hardu Muhammad Kay,16,29
+Jhagian Chor,17,29
+Chunia Otar,20,29
+Charagh Deen,21,29
+Kot Veer Singh,22,29
+Khelji Khalsa,23,29
+Kot Asah Singh,24,29
+Olakh Hithar,27,29
+Maralian Hithar,28,29
+Maralian Hithar,29,29
+Maralian Hithar,30,29
+Jabu Mel,1,30
+Jabu Mel,2,30
+Jabu Mel Beroon,3,30
+Athil Pur,6,30
+Athil Pur,7,30
+Kot Rahna,8,30
+Baghdad Pur + Dars Pura,9,30
+Kalay Wala,10,30
+Khushal Singh,13,30
+Haweli Sufaid Khan+  Amr Wali,14,30
+Haweli Hameed Khan+  Bembo Wali,15,30
+Haweli Khashmiran Wali,16,30
+Basti Jamal Deen,17,30
+Basti Suleimanabad,20,30
+Basti Suleimanabad+ Bhatta Fauj Khan,21,30
+Charaywan,22,30
+Aurara Nuh,23,30
+Aurara Nuh,24,30
+Aurara Nuh,27,30
+Aurara Kahna,28,30
+Aurara Kahna,29,30
+Aurara Kahna,30,30
+Piyal Kalan,1,31
+Piyal Kalan,2,31
+Piyal Kalan,3,31
+Piyal Kalan,6,31
+Piyal Kalan,7,31
+Piyal Kalan,8,31
+Piyal Kalan,9,31
+Dhang Shah,10,31
+Dhang Shah,13,31
+Dhang Shah,14,31
+Dhang Shah,15,31
+Dhang Shah,16,31
+Dhang Shah Adda,17,31
+Nain Wala Jagir,20,31
+Nain Wala Jagir,21,31
+Nain Wala Jagir,22,31
+Nain Wala Jagir,23,31
+Piyal Khord,24,31
+Nai Mandi Usman Wala,27,31
+Salamat Pura,28,31
+Salamat Pura,29,31
+Salamat Pura,30,31
+Qadi Wind,1,32
+Qadi Wind Bhatta,2,32
+Targah,3,32
+Haweli Nathu Wali Kalan,6,32
+Haweli Nathu Wali Khord,7,32
+Peer Wala,8,32
+Warn,9,32
+Patun Kalan,10,32
+Patun Kalan,13,32
+Bilan Wala,14,32
+Nathu Wala,15,32
+Rohewal,16,32
+Ladhikay,17,32
+Logarh Jhagian,20,32
+Rang Pur,21,32
+Rang Pur,22,32
+Haweli Nathu Wali Kalan,23,32
+Qadi Wind,24,32
+Qadi Wind,27,32
+Peeron Wala,28,32
+Patun Kalan,29,32
+Warn,30,32
+Hastay wala,1,33
+Najabat,2,33
+Rangay Wala,3,33
+Sadar+ Dera Jaat,6,33
+Johadh Singh Wala,7,33
+Johadh Singh Wala,8,33
+Manda Matar+ Ganja Border,9,33
+Doonah Jaloki+ Beetu Jagir,10,33
+Dobarji+ Peer Kanah,13,33
+Khaleji Jagir,14,33
+Khaleji Jagir,15,33
+Sheikh Saad Kalu Wala,16,33
+Hardu Sheikh Saad,17,33
+Mamu Kay Sharf+ Sanda Khanwan,20,33
+Ganja Khord+ Ganja Kalan,21,33
+Tatara Kamil,22,33
+Rajo Wal,23,33
+Rajo Wal,24,33
+Atr Singh Wala,27,33
+Bakar Kay,28,33
+Cha Dhan Wala+ Basti Meenar Wali,29,33
+Beeri Ber+ Nathal Kay,30,33
+Meer Muhamad,1,34
+Meer Muhamad,2,34
+Meer Muhamad,3,34
+Meer Muhamad,6,34
+Meer Muhamad,7,34
+Bhatta Jaat,8,34
+Bhatta Jaat,9,34
+Mana Wala,10,34
+Mirzay Wala,13,34
+Bonga Ganda Singh Wala,14,34
+Aeshri Singh,15,34
+Sheikh Wala+ Beroon Bonga,16,34
+Rao Khan Wala,17,34
+Rao Khan Wala,20,34
+Rao Khan Wala,21,34
+Rao Khan Wala,22,34
+Rao Khan Wala,23,34
+Rao Khan Wala,24,34
+Rao Khan Wala,27,34
+Rao Khan Wala,28,34
+Rao Khan Wala,29,34
+Rao Khan Wala,30,34
+Kelo Kalan,1,35
+Katba,2,35
+Makkah Colony,3,35
+Noor Pur Nehr,6,35
+Chamray Wala Kho,7,35
+Chuha Jharmat,8,35
+Muft Pura,9,35
+Kelo Khord,10,35
+Noor Pur Nehr,13,35
+Roshn Bheela,14,35
+Roshn Bheela,15,35
+Tariq Wala Kho,16,35
+Kelo Kalan,17,35
+Kelo Kalan,20,35
+Katba,21,35
+Noor Pur Nehr,22,35
+Noor Pur Nehr,23,35
+Noor Pur Nehr,24,35
+Noor Pur Nehr,27,35
+Roshn Bheela,28,35
+Roshn Bheela,29,35
+Roshn Bheela,30,35
+Wegal,1,36
+Wegal,2,36
+Wegal,3,36
+Wegal,6,36
+Wegal,7,36
+Wegal,8,36
+Thay Panu,9,36
+Kalyan,10,36
+Kalyan,13,36
+Lail,14,36
+Lail,15,36
+Saruay,16,36
+Bhoja,17,36
+Bhoja,20,36
+Bhoja,21,36
+Sarhali Kalan,22,36
+Sarhali Kalan,23,36
+Sarhali Kalan,24,36
+Sarhali Kalan,27,36
+Sarhali Kalan,28,36
+Sarhali Kalan,29,36
+Sarhali Kalan,30,36
+Sehjra,1,37
+Sehjra,2,37
+Chant+ Doona,3,37
+Mabukay,6,37
+Mahi Wala,7,37
+Bastian,8,37
+Chanda Singh Wala,9,37
+Fati Wala,10,37
+Kamal Pura,13,37
+Sultan Shah Wala,14,37
+Sheikh Pura Nuh,15,37
+Muhalim Kalan,16,37
+Muhalim Kalan,17,37
+Muhalim Kalan,20,37
+Nagar Aeman Pura,21,37
+Dhoop Sari,22,37
+Mustayki,23,37
+Kalanjarh+  Bhagarh,24,37
+Bhakhi Wand,27,37
+Haku Wala,28,37
+Raji Wala,29,37
+Sheikh Pura Kahna,30,37
+Kotli Pathana,1,38
+Fakiray Wala,2,38
+Fakiray Wala+Bhatta Jaat,3,38
+Tolo Wala,6,38
+Tolo Wala,7,38
+Chauhar Pura,8,38
+Chauhar Pura,9,38
+Chauhar Pura,10,38
+Kani Wala,13,38
+Basti Gujran Wala,14,38
+Neay ki Kalan,15,38
+Neay ki Kalan,16,38
+Bhoochkay,17,38
+Bhoochkay,20,38
+Bhoochkay,21,38
+Kot Anwar+ Shams Pura,22,38
+Nathay Wala,23,38
+Nathay Wala,24,38
+Basti Khushi,27,38
+Sheikh Imaad Kahna,28,38
+Sheikh Imaad Kahna,29,38
+Sheikh Imaad Kahna,30,38
+Ghos Sabri,1,39
+Ghos Sabri,2,39
+Alfalah Colony,3,39
+Alfalah Colony,6,39
+Basti Raheem-ud-Din,7,39
+Khursheed Town,8,39
+Cha Dhan Wala,9,39
+Abu Bakar Town,10,39
+Sadiqa Colony,13,39
+Himat Pura,14,39
+Muhala Balochan Wala,15,39
+Basti Tarkhan Wali,16,39
+Rehmanabad,17,39
+Rehmanabad,20,39
+Kot Sardar Muhammad,21,39
+Cha Tabasi Wala,22,39
+Ahmad City+Rehman City,23,39
+Muhala Bagh Wala,24,39
+Muhala Islam Wala,27,39
+Muhala Rajpootan Wala,28,39
+Garoh ka Thara+Makkah Town,29,39
+Shakeel Town,30,39
+Bijri Wala,1,40
+Shark Abadi,2,40
+Kamhar Pura,3,40
+Muhala Isaion Wala,6,40
+Muhala Shah Nawaz,7,40
+Muhala Isaion Wala,8,40
+Muhala Haji Tufail Wala,9,40
+Basti Mewat,10,40
+Pati Bay Ward 2,13,40
+Muhala Sadiqabad,14,40
+Muhala Sadiqabad,15,40
+Muhala Maklan Wala+Muhala Gujran Wala,16,40
+Muhala Ansarian Wala,17,40
+Muhala Ansarian Wala,20,40
+Pati Bay Ward 3,21,40
+Pati Bay Ward 3,22,40
+Muhala Sarfaraz Wala,23,40
+Muhala Sarfaraz Wala,24,40
+Muhala Chaudrian Wala,27,40
+Muhala Munir Wala,28,40
+Muhala Munir Wala,29,40
+Muhala Gujran Wala,30,40
+Ameer Colony,1,41
+Ameer Colony,2,41
+Ameer Colony,3,41
+Muhala Kambuaan,6,41
+Basti Mewaat,7,41
+Muhala Karman Wala,8,41
+Muhala Baghichi,9,41
+Muhala Baghichi,10,41
+Muhala Baghichi,13,41
+Muhala Baghichi,14,41
+Muhala Baghichi,15,41
+Muhala Baghichi Younas Shah,16,41
+Muhala Baghichi,17,41
+Muhala Baghichi,20,41
+Newan Thay,21,41
+Newan Thay,22,41
+Newan Thay,23,41
+Newan Thay,24,41
+Muhala Baba Mithu Shah,27,41
+Muhala Chaudrian Wala,28,41
+Muhala Malkan Wala,29,41
+Muhala Ameen Ansari,30,41
+Meowati Jhagian,1,42
+Makki Masjid,2,42
+Iqbal Nagar,3,42
+Town Committee,6,42
+Muhala Mehran,7,42
+Muhala Mehran,8,42
+Allah Hu Chok,9,42
+Allah Hu Chok,10,42
+Sheem Health House,13,42
+Chok Shafi Wala,14,42
+Chok Aray Wala,15,42
+Dewi Dewara,16,42
+Madnia Masjid,17,42
+Madrassa Al-Uloom-us-Sana,20,42
+Noor Masjid,21,42
+Machli Wala Chok,22,42
+Bonga Basti,23,42
+Bonga Basti,24,42
+Masjid Ahsaan Shah,27,42
+Chok Dogran,28,42
+Chok Usman Ghani,29,42
+Chok Chokhandi,30,42
+Johad Wala,1,43
+Johad Wala,2,43
+Nur Pur Dogran,3,43
+Muhalem Khord,6,43
+Thay Kamal,7,43
+Bhatta Jaat+Jamay Dharian,8,43
+Langiana,9,43
+Gohar Jagir,10,43
+Gohar Jagir,13,43
+Gohar Jagir,14,43
+Sheikh Purian,15,43
+Sheikh Purian+Mashmulajat,16,43
+Bag Singh Wala,17,43
+Bag Singh Wala,20,43
+Bagh Wala,21,43
+Roday Wala,22,43
+Roday Wala,23,43
+Roday Wala,24,43
+Usman Wala,27,43
+Usman Wala,28,43
+Usman Wala,29,43
+Usman Wala,30,43
