@@ -8,6 +8,8 @@ class UserSerializer < ActiveModel::Serializer
   		id = Tehsil.where(name: "Kasur").last.try(:id)
   	elsif self.object.phone == 'ddho.krk'
   		id = Tehsil.where(name: "KRK").last.try(:id)
+  	elsif self.object.phone == 'ddho.chunian'
+  		id = Tehsil.where(name: "Chunian").last.try(:id)
   	end
 
   	id

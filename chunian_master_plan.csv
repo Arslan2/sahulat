@@ -1,0 +1,595 @@
+name,plan_date,uc_id
+Kals Gama,1,86
+Kals Gama,2,86
+Cheetar,3,86
+Cheetar,6,86
+Chohal,7,86
+Aswi,8,86
+Qaim Shah Wala,9,86
+Qaim Shah Wala,10,86
+Qaim Shah Wala,13,86
+Basti Hakim Shah,14,86
+Kot Muhammad Hasan,15,86
+Kot Muhammad Hasan,16,86
+Qazi Wala,17,86
+Thati Hithar,20,86
+Thati Hithar,21,86
+Mankadekay,22,86
+Mankadekay,23,86
+Mankadekay,24,86
+Mankadekay,27,86
+Mehmood Khokar,28,86
+Manurian,29,86
+Manurian,30,86
+Gandhi Rup Singh,1,87
+Fateh Muhammad Kalan,2,87
+"Bhattian, Rukan Pura",3,87
+Mansu Wala,6,87
+"Lohay Jatan, Qali Shahu",7,87
+Basti Dhengian Wali,8,87
+Mokal,9,87
+Mokal,10,87
+Tiba Fateh Muhammad,13,87
+"Cha Quraishian, Fateh Muhammad Khurd",14,87
+"Besukay, Dharma Thakura",15,87
+"Phanian, Mehr Singh",16,87
+"Shehbaz Kay, Kacha",17,87
+"Harjoki, Dharian",20,87
+Chambian Wali,21,87
+Bodal Khanekay,22,87
+Kot Sandar Singh,23,87
+Sheray Walay,24,87
+Nibahu Wala,27,87
+Daya Singh,28,87
+Basti Dhoon,29,87
+Ladha Singh,30,87
+Bhangu Wala,1,88
+Tangarian,2,88
+Badaikay,3,88
+Badaikay,6,88
+Shamkot Kahna,7,88
+Shamkot Kahna,8,88
+Bhangun Kay Araian,9,88
+Bhangun Kay Araian,10,88
+Bhangun Kay Araian,13,88
+Mehr Chand Wala,14,88
+Kotha Kalan,15,88
+Kotha Kalan,16,88
+Kotha Kalan,17,88
+Kotha Kalan,20,88
+Bholay Wala,21,88
+Kotha Scattered,22,88
+Kotha Scattered,23,88
+Kotha Scattered,24,88
+Basti Qutab Shah,27,88
+Basti Qutab Shah,28,88
+Badaikay Scattered,29,88
+Badaikay Scattered,30,88
+Bhualruian,1,89
+Bhualruian,2,89
+Narmal Kay,3,89
+Narmal Kay,6,89
+Bea Singh,7,89
+Bea Singh,8,89
+Khokar Tochar,9,89
+Khokar Tochar,10,89
+Veer Kay,13,89
+Veer Kay,14,89
+Veer Kay,15,89
+Jajal,16,89
+Jajal,17,89
+Jajal,20,89
+Jajal,21,89
+Qila Natha Singh,22,89
+Qila Natha Singh,23,89
+Qila Natha Singh,24,89
+Qila Natha Singh,27,89
+Pakhoki,28,89
+Pakhoki,29,89
+Pakhoki,30,89
+Dao Kay Kalan,1,90
+Dao Kay Kalan,2,90
+Dao Kay Kalan,3,90
+Janga Singh Wala,6,90
+Kali Soqal,7,90
+Kali Soqal,8,90
+Dher Jekay,9,90
+Qila Dao Kay,10,90
+Qila Dao Kay,13,90
+Lohay Rajputan,14,90
+Lohay Marley,15,90
+Tibbi Mehtab,16,90
+Garay Wala,17,90
+Garay Wala,20,90
+Kali Soqal,21,90
+Kali Soqal,22,90
+Kali Soqal,23,90
+Kali Soqal,24,90
+Dao  Kay Khaniana,27,90
+Dao  Kay Khaniana,28,90
+Basti Fateh Wali,29,90
+Basti Fateh Wali,30,90
+Barj Rang Singh,1,91
+Barj Rang Singh,2,91
+Barj Rang Singh,3,91
+Atari Karam Singh,6,91
+Atari Karam Singh,7,91
+Atari Karam Singh,8,91
+Atari Karam Singh,9,91
+Maula Pur,10,91
+Maula Pur,13,91
+Maula Pur,14,91
+Palara,15,91
+Palara,16,91
+Ganab Kalan,17,91
+Ganab Khurd,20,91
+Rae Singh,21,91
+Rae Singh,22,91
+Narain Singh,23,91
+Narain Singh,24,91
+Dev Khara,27,91
+Dev Khara,28,91
+Dev Khara,29,91
+Dev Khara,30,91
+Bhagyana Khurd,1,92
+Bhagyana Khurd,2,92
+Bhagyana Khurd,3,92
+Bhagyana Khurd,6,92
+Bher Sudian,7,92
+Bher Sudian,8,92
+Bher Sudian,9,92
+Talondi,10,92
+Talondi,13,92
+Talondi,14,92
+Talondi,15,92
+Talondi,16,92
+Talondi,17,92
+Talondi,20,92
+Talondi,21,92
+Talondi,22,92
+Talondi,23,92
+Talondi,24,92
+Talondi,27,92
+Talondi,28,92
+Talondi,29,92
+Talondi,30,92
+Ward Number 1,1,93
+Ward Number 1,2,93
+Ward Number 1,3,93
+Ward Number 1,6,93
+Ward Number 2,7,93
+Ward Number 2,8,93
+Ward Number 2,9,93
+Ward Number 2,10,93
+Ward Number 2,13,93
+Ward Number 2,14,93
+Ward Number 2,15,93
+Ward Number 2,16,93
+Ward Number 2+3,17,93
+Ward Number 3,20,93
+Ward Number 3,21,93
+Ward Number 4,22,93
+Ward Number 5,23,93
+Ward Number 6,24,93
+Ward Number 6,27,93
+Ward Number 6,28,93
+Ward Number 7+8,29,93
+Ward Number 9+10,30,93
+Sham Kot,1,94
+Sham Kot,2,94
+Sham Kot,3,94
+Sham Kot,6,94
+Atari Virk,7,94
+Atari Virk,8,94
+Jamsheer Kalan,9,94
+Jamsheer Kalan,10,94
+Jamsheer Kalan,13,94
+Jamsheer Kalan,14,94
+Jamsheer Kalan,15,94
+Sheniwal,16,94
+Sheniwal,17,94
+Sheniwal,20,94
+Jamsheer Scattered,21,94
+Jamsheer Scattered,22,94
+Ladi,23,94
+Ladi,24,94
+Achal Kay,27,94
+Achal Kay,28,94
+Suraisar Hithar,29,94
+Suraisar Hithar,30,94
+Dhadian,1,95
+Atari Akikay,2,95
+Atari Akikay,3,95
+Atari Akikay,6,95
+"Fatml, Fatoki",7,95
+Fatoki,8,95
+Fatoki,9,95
+Fatoki,10,95
+Gara Singh,13,95
+Gara Singh,14,95
+Aravian Wala,15,95
+Aravian Wala,16,95
+Aravian Wala,17,95
+Makhnay Wala,20,95
+Makhnay Wala,21,95
+Landay Wala,22,95
+Landay Wala,23,95
+Cheena Bela Singh,24,95
+Baka Pur,27,95
+Baka Pur,28,95
+Baka Pur,29,95
+Satoki Hithar,30,95
+Maratian,1,96
+Maratian,2,96
+Aki Kay,3,96
+Aki Kay Scaded Area,6,96
+Polay Kay,7,96
+Polay ki Scaded Area,8,96
+Dhatay Scaded Area,9,96
+Dhatay ,10,96
+Dhatay ,13,96
+Dhatay ,14,96
+Veer Kay Kahnay,15,96
+Veer Kay Kahnay,16,96
+Lalu Kay,17,96
+Lalu Kay,20,96
+Hasmna,21,96
+Hasna Scaded Area,22,96
+Hasna Marlay,23,96
+Pindi Jatan,24,96
+Pindi Jatan Scaded Area,27,96
+Majhana,28,96
+Majhana ,29,96
+Dhatay,30,96
+Babr Khai,1,97
+Babr Khai,2,97
+Baka Pur Shumali,3,97
+Baka Pur Janubi,6,97
+Mastuwal,7,97
+Mastuwal,8,97
+Mastuwal,9,97
+Jhagian Aziz Baig,10,97
+Nenwal Khalisah,13,97
+Nenwal Khalisah,14,97
+Muft Pura,15,97
+Gohlan Hithar,16,97
+Gohlan Hithar,17,97
+Gohlan Hithar,20,97
+Gohlan Hithar,21,97
+Gohlan Hithar,22,97
+Gohlan Hithar,23,97
+Gohlan Hithar,24,97
+Gohlan Hithar,27,97
+Gohlan Hithar,28,97
+Gohlan Hithar,29,97
+Gohlan Hithar,30,97
+Bhagewal Number 1,1,98
+Kawaroli Bhagi Wala,2,98
+Bhagi Wala Tibba,3,98
+Bhagi Wala Tibba,6,98
+Bhagi Wala Tibba,7,98
+Bhagi Wala Alnawan Wala,8,98
+Bongi Bagh,9,98
+Bongi Kalie,10,98
+Bongi Kalie,13,98
+Bongi Plot,14,98
+Village Arzani Pur,15,98
+Village Arzani Pur,16,98
+Village Arzani Pur,17,98
+Arzani Por Adda,20,98
+Arzani Por,21,98
+Arzani Por,22,98
+Mai Rabu,23,98
+Thenag Khataryan,24,98
+Azeem Pura,27,98
+Village Koray Sial,28,98
+Basti Koray Sial,29,98
+Zila Tax Koray Sial,30,98
+Bheem Kay Village,1,99
+Bheem Kay Sectored,2,99
+Chahar Kay,3,99
+Chahar Kay,6,99
+Harsa Noshehra,7,99
+Harsa Noshehra,8,99
+Badu Joiya,9,99
+"Gandi Hithar, Sahangay Hithat",10,99
+Satoki,13,99
+Jandian Wala,14,99
+Sahangay Othar,15,99
+Jind Wala,16,99
+Jind Wala Dharian,17,99
+Kot Lalay Wala,20,99
+Kot Lalay Wala Dharian,21,99
+Kot Lalay Wala Sectored,22,99
+Lambay Khalsa,23,99
+Kot Bodla,24,99
+Kot Balaka Singh,27,99
+Dhag,28,99
+Doblian,29,99
+Tibba Doblian,30,99
+Ketan Kalan,1,100
+Ketan Khurd,2,100
+Umer Baka,3,100
+Jamsheer Khurd,6,100
+Jamsheer Khurd,7,100
+Meer Kot,8,100
+Meer Kot Water Tank,9,100
+Naki,10,100
+Shams Pura,13,100
+Shams Pura,14,100
+Shams Pura,15,100
+Khokhar Ashraf,16,100
+Khokhar Ashraf,17,100
+Khokhar Ashraf,20,100
+Darbar Sheikh Alam Deen,21,100
+Darbar Sheikh Alam Deen,22,100
+Darbar Sheikh Alam Deen,23,100
+Noor Pur Jatan,24,100
+Noor Pur Jatan,27,100
+Noor Pur Jatan,28,100
+Bahari Pur,29,100
+Bahari Pur,30,100
+Saddah Othar,1,101
+Saddah Othar,2,101
+Saddah Othar,3,101
+Saddah Othar,6,101
+Saddah Hithar,7,101
+Saddah Hithar,8,101
+Dhos,9,101
+Dhos,10,101
+Dhos,13,101
+Baherowal,14,101
+Baherowal,15,101
+Kanda Kharo,16,101
+Kanda Kharo,17,101
+Kanda Kharo,20,101
+Kanda Kharo,21,101
+Bakan Kay,22,101
+Bakan Kay,23,101
+Bakan Kay,24,101
+Nizam Pura,27,101
+Nizam Pura,28,101
+Noshehra,29,101
+Kot Aasa Singh,30,101
+Heray Wali Rori,1,102
+Nanu Wala Dharian,2,102
+Dev Sial,3,102
+Gad Pur,6,102
+Gad Pur,7,102
+Gad Pur,8,102
+Kandu Wala,9,102
+Kandu Rangarh,10,102
+Kandu Rangarh Naya,13,102
+"Cheema Hithar, Kot Muhammad Deen",14,102
+Cheema Hithar,15,102
+Kot Rehmat,16,102
+Shams Abad,17,102
+Shams Abad,20,102
+Kot Chaudrian,21,102
+Kot Chaudrian,22,102
+Kot Baga Singh Dharian,23,102
+Kot Chaudrian,24,102
+"Jhok Balochan, Shams Abad",27,102
+Kot Jhok Balochan,28,102
+Dhako Bara Village,29,102
+Dhako Chota,30,102
+Jagu Wala,1,103
+Jagu Wala,2,103
+Jagu Wala,3,103
+Jagu Wala,6,103
+Jagu Wala,7,103
+Rasool Pur,8,103
+Rasool Pur,9,103
+Rasool Pur,10,103
+Rasool Pur,13,103
+Rasool Pur,14,103
+Rasool Pur,15,103
+Rosa Tiba,16,103
+Rosa Tiba,17,103
+Rosa Tiba,20,103
+Rosa Tiba,21,103
+Rosa Tiba,22,103
+Ali Pur,23,103
+Ali Pur,24,103
+Veeram,27,103
+Veeram,28,103
+Veeram,29,103
+Veeram,30,103
+Hussain Wala Chak Number-8,1,104
+Hussain Wala Chak Number-8,2,104
+Hussain Wala Chak Number-8,3,104
+Hussain Wala Chak Number-8,6,104
+Hussain Wala Chak Number-8,7,104
+Goharh Chak Number-8,8,104
+Goharh Chak Number-8,9,104
+Goharh Chak Number-8,10,104
+Jodah Singh,13,104
+Jodah Singh,14,104
+Jodah Singh,15,104
+Dhana,16,104
+Dhana,17,104
+Khabir Sharif,20,104
+Khabir Sharif,21,104
+Khabir Sharif,22,104
+Bola Kari,23,104
+Bola Kari,24,104
+Javed Nagar,27,104
+Javed Nagar,28,104
+Javed Nagar,29,104
+Javed Nagar,30,104
+Deso Wala,1,105
+Kot Nawab,2,105
+Alim Wala,3,105
+Kot Watwan,6,105
+Gala Noala,7,105
+Gala Noala,8,105
+Adda Panuh Singh,9,105
+Kot Neena,10,105
+Kot Foji,13,105
+Mianwala Ghat,14,105
+Gurdas Wala,15,105
+Kot Ratan Singh,16,105
+Masjra,17,105
+Mahna Singh,20,105
+Bhatta Jatt,21,105
+Kot Gamma,22,105
+Mathi Khui,23,105
+Kot Boota Singh,24,105
+Kot Talab,27,105
+Harjoki,28,105
+Harjoki,29,105
+Harjoki,30,105
+Niar Haman Pura,1,106
+Niar Haman Pura,2,106
+Terath,3,106
+Kot Hasan Muhammad,6,106
+Wan Khara,7,106
+Wan Khara,8,106
+Wan Khara,9,106
+Wan Khara,10,106
+Wan Khara,13,106
+Wan Khara,14,106
+Wan Khara,15,106
+Puran Rahman Pura,16,106
+Puran Rahman Pura,17,106
+Ahlo Wal Road,20,106
+Ahlo Wal Road,21,106
+Ahlo Wal Road,22,106
+Ishaq Town,23,106
+Mashallah Colony,24,106
+Mashallah Colony,27,106
+Kot Rao,28,106
+Firdos Colony,29,106
+Kot Rao,30,106
+Chak Number 18,1,107
+Chak Number 18,2,107
+Chak Number 18,3,107
+Chak Number 18,6,107
+Chak Number 18,7,107
+Chak Number 17,8,107
+Chak Number 17,9,107
+Chak Number 17,10,107
+Chak Number 17,13,107
+Chak Number 17,14,107
+Kot Chand Khan,15,107
+Kot Chand Khan,16,107
+Kot Chand Khan,17,107
+Kot Chand Khan,20,107
+Chak Number 15,21,107
+Chak Number 15,22,107
+Chak Number 15,23,107
+Chak Number 15,24,107
+Changa Manga,27,107
+Block Number 3,28,107
+"Block Number 1,5",29,107
+"Block Number 4,2",30,107
+Muhammadi Pura,1,108
+Muhammadi Pura,2,108
+Muhammadi Pura,3,108
+Veer Singh,6,108
+Khushal Singh,7,108
+Khushal Singh,8,108
+Kot Watwan Wala,9,108
+Kot Manga Singh,10,108
+Narain Sar,13,108
+Nawan Kot,14,108
+Master Ashraf Khu+Malkan Wala Khu,15,108
+Tiba Mandeki,16,108
+Kundan Wala Mor+Saketad Area,17,108
+Kundan Wala Mor,20,108
+Barki Chok 16,21,108
+Barki Chok 16,22,108
+Kot Dhara Singh,23,108
+Mata Sar,24,108
+Kot Nathu,27,108
+Kot Nathu Sketd Area,28,108
+Arjun Singh,29,108
+Arjun Singh,30,108
+Mukam,1,109
+Mukam,2,109
+Badhoki,3,109
+Badhoki,6,109
+Borh Singh,7,109
+Gujan Singh,8,109
+Gujan Singh,9,109
+Gujan Singh,10,109
+Bhakogi,13,109
+Bhakogi,14,109
+Kot Mala,15,109
+Machar Pura,16,109
+Veer Singh,17,109
+Veer Singh,20,109
+Tibi Dial Singh,21,109
+Tibi Dial Singh,22,109
+Tibi Dial Singh,23,109
+Tibi Dial Singh,24,109
+Garmakh Singh,27,109
+Garmakh Singh,28,109
+Lehna Singh,29,109
+"Mojoki, Kot Wasava Singh",30,109
+Farooq Ganj,1,110
+Jhok,2,110
+Hasan Pura,3,110
+Zafar Town,6,110
+Cantt Chunian,7,110
+Kot Umer Wattu,8,110
+Maki Shah,9,110
+Hadi Town,10,110
+Muhala Talab,13,110
+Muhala Zaheer Abad,14,110
+Muhala Zaheer Abad,15,110
+Muhala Zaheer Abad,16,110
+Muhala Zaheer Abad,17,110
+Muhala Zaheer Abad,20,110
+Canada Colony,21,110
+Kowarar,22,110
+Kowarar,23,110
+Main Bazar,24,110
+Faisal Colony,27,110
+Rana Town,28,110
+Rana Town,29,110
+Iqbal Town,30,110
+Kot Umer Watu,1,111
+Kot Umer Watu,2,111
+Muhala Kiu Shala,3,111
+Muhala Peer Jahanian,6,111
+Muhala Karam Abad,7,111
+Muhala Ghosiah Abad,8,111
+Muhala Rasool Nagar,9,111
+Muhala Khatian Wala,10,111
+Muhala Khatian Wala,13,111
+Muhala Lamba Khola,14,111
+Muhala Sheikhan Wala,15,111
+Afsal Town,16,111
+Afsal Town,17,111
+Muhala Asaian,20,111
+Muhala Kasaban,21,111
+Muhala Dev Darwaza,22,111
+Chok Kharian,23,111
+Muhala Purani Tehsil,24,111
+Street Peer Jafir Ali Shah,27,111
+Nai Abadi Baraf Khana,28,111
+Nai Abadi Baraf Khana,29,111
+Beroon Qila Rupa Singh,30,111
+Ward Number-1,1,112
+Ward Number-2,2,112
+Ward Number-2,3,112
+Ward Number-3,6,112
+Ward Number-4,7,112
+Ward Number-5,8,112
+Ward Number-5,9,112
+Ward Number-6,10,112
+Ward Number-7,13,112
+Ward Number-7,14,112
+Ward Number-8,15,112
+Ward Number-8,16,112
+Ward Number-9,17,112
+Ward Number-10,20,112
+Ward Number-11,21,112
+Ward Number-11,22,112
+Ward Number-12,23,112
+Ward Number-13,24,112
+Ward Number-14,27,112
+Ward Number-14,28,112
+Ward Number-15,29,112
+Ward Number-15,30,112
